@@ -1,5 +1,5 @@
 
-<p>Este repositório é referente ao segundo dia do plantão individual sobre BackEnd. Serão abordadas as UCs 13, 14, 15</p>
+# Este repositório é referente ao segundo dia do plantão individual sobre BackEnd. Serão abordadas as UCs 13, 14, 15
 
  [Exemplo de imagem](img/gifs-momentos-de-felicidade.gif)
  ---
