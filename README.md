@@ -1,4 +1,4 @@
-'<h1>PInd_Back02</h1>
+
 <p>Este repositório é referente ao segundo dia do plantão individual sobre BackEnd. Serão abordadas as UCs 13, 14, 15</p>
 
  [Exemplo de imagem](img/gifs-momentos-de-felicidade.gif)
